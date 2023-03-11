@@ -20,3 +20,5 @@ that basically covers what is included in this repo, but now I need to use anoth
 * 👽(*bogos binted*)
 * [GitHub link](https://youtu.be/dQw4w9WgXcQ)
 * [the actual GitHub link, trust me](https://github.com/ripsaw35/stats220)
+
+![mmm burg delish](https://www.refrigeratedfrozenfood.com/ext/resources/NEW_RD_Website/DefaultImages/default-burger.jpg?1434661540)
