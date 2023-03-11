@@ -1,12 +1,12 @@
-# stats220
+### stats220
 
-## HI THERE!
+# HI THERE!
 
 welcome to my repo, the main purpose of it is for the project 1 of my stats 220 class,
 
 *(p.s. its very cool that were making memes, **memes** bro, like can you believe it?)*
 
-# ahem, anyways, to pass in this project , we would have to make:
+## ahem, anyways, to pass in this project , we would have to make:
  1. a meme(*yay*)
  2. a animated gif(not sure how but ill try ☺️)
  3. a HTML 
